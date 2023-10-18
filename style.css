@@ -1,0 +1,24 @@
+body{
+    background-image: url(images/carly.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    
+}
+#header{
+    color: pink;
+    text-align: center;
+    background-color: black;
+}
+#Text1{
+    width: 50%;
+    height: 30px;
+    margin-left: 20%;
+}
+button{
+    width: 10%;
+    height: 30px;
+    border: 1px solid pink;  
+    border-radius: 10px;
+
+}
